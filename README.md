@@ -13,9 +13,9 @@
   - Combination results: accuracy is 64%, precision of high_risk is 1%,  and the recall is 72%
   - ![alt text](../main/Combination_Deliverble2.png) 
 - Use Ensemble Classifiers to Predict Credit Risk (Deliverble3):
-   - Balanced Random Forest Classifier results: accuracy is 78%, precision of high_risk is 3%,  and the recall is 69%
+   - Balanced Random Forest Classifier results: accuracy is 78%, precision of high_risk is 3%,  and recall is 69%
     ![alt text](../main/BalancedRandomForest_Deliverble3.png) 
-   - Easy Ensemble AdaBoost Classifier results: accuracy is 93%, precision of high_risk is 9%,  and the recall is 92%
+   - Easy Ensemble Classifier results: accuracy is 93%, precision of high_risk is 9%,  and recall is 92%
     ![alt text](../main/EasyEnsembleAdaBoost_Deliverble3.png) 
 
 ## Summary
