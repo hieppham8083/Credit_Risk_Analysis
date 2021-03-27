@@ -18,4 +18,6 @@
    - Easy Ensemble AdaBoost Classifier results: accuracy is 93%, precision of high_risk is 9%,  and the recall is 92%
     ![alt text](../main/EasyEnsembleAdaBoost_Deliverble3.png) 
 
-A Written Report on the Credit Risk Analysis
+## Summary
+- Recommendation: Base on the results, We should use Easy Ensemble AdaBoost Classifier because it had high accuracy and good balance of precision and recall.
+- I would not recommend to use the first four models to predict credit risk.
