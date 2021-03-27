@@ -4,7 +4,7 @@
 ## Challenge
 - Use Resampling Models to Predict Credit Risk(Deliverble1): 
   - Naive Random Oversampling results: accuracy is 64%, precision of high_risk is 1%,  and the recall is 73%
-    ![alt text](../main/NaiveRandomOversampling_Deliverble1.png) 
+    ![alt text](../main/RandomOversampling_Deliverble1.png) 
   - Naive Random Oversampling results: accuracy is 66%, precision of high_risk is 1%,  and the recall is 63%
     ![alt text](../main/SMOTEOversampling_Deliverble1.png) 
 - Use the SMOTEENN algorithm to Predict Credit Risk(Deliverble2):
